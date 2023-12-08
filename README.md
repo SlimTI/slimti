@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to Company XYZ! 🛠️</h1>
+<h1 align="center">🚀 Welcome to Slim Software! 🛠️</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26DNcY9NpG0v2He7S/giphy.gif" alt="Web Development" width="300">
@@ -25,18 +25,3 @@
 - Planning and execution of modernization strategies 📈
 - Seamless integration with current systems 🌐
 
-<h2 align="center">Get in Touch! 📞</h2>
-
-<p align="center">
-  If you need assistance in maintaining your legacy systems or want to upgrade your software infrastructure, reach out to us:
-</p>
-
-<p align="center">
-  🌐 **Website:** [www.companyXYZ.com](https://www.companyXYZ.com) <br>
-  ✉️ **E-mail:** contact@companyXYZ.com <br>
-  ☎️ **Phone:** +XX XXXX-XXXX
-</p>
-
-<p align="center">
-  We're ready to help you maintain your legacy systems reliably and efficiently! 🚀
-</p>
